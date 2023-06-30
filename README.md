@@ -23,7 +23,7 @@ Or simply download the zip and extract it: https://github.com/jcasado94/florapyr
 Write a newline-separated list of species IDs from FloraPyr into `input_get_observations.txt` (see the example in [input_get_observations_example.txt](examples/input_get_observations_example.txt)), as obtained from the site in *Taxons > Fiches Taxons*, and as exemplified in the following screenshot
 ![How to obtain species IDs](./images/speciesIDs.png)
 
-(There is a _hidden functionality_ to let the user input the species names instead of the species IDs, as I thought that'd be easier for them. Nevertheless, it currently relies on string comparison between given taxa names and FloraPyr accepted names, and therefore it is not robust enough and not recommended to use (it will misbehave with discordant taxa, especially subspecies). It can be triggered by changing `inputAsSpeciesName = False` to `inputAsSpeciesName = True` in `get_observations.py`. Manually fetching species IDs from FloraPyr is way more stable and reliable.)
+######  (There is a _hidden functionality_ to let the user input the species names instead of the species IDs, as I thought that'd be easier for them. Nevertheless, it currently relies on string comparison between given taxa names and FloraPyr accepted names, and therefore it is not robust enough and not recommended to use (it will misbehave with discordant taxa, especially subspecies). It can be triggered by changing `inputAsSpeciesName = False` to `inputAsSpeciesName = True` in `get_observations.py`. Manually fetching species IDs from FloraPyr is way more stable and reliable.)
 
 ### Execute!
 `python3 get_observations.py`
