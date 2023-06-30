@@ -4,9 +4,9 @@
 
 This is a scraper designed to extract species observations information from http://www.atlasflorapyrenaea.eu/. Given a list of species IDs, the program will obtain all their observations and, for each of those, it will extract their _id_, _year_, _town_, _altitude_, _utm1x1_ and _utm10x10_, as obtained per the usual manual process from the website.
 
-You input [this](examples/input_get_observations_example.txt)
+You input your species as in [this txt](examples/input_get_observations_example.txt).
 
-and you get [this](examples/out_observations_example.json) and [this](examples/out_observations_example.csv).
+and you get your observations as in [this json](examples/out_observations_example.json) and [this csv](examples/out_observations_example.csv).
 
 
 ## How to use
