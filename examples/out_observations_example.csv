@@ -1,0 +1,918 @@
+OBSERVATION_ID,SPECIES,YEAR,TOWN,ALTITUDE,UTM1X1,UTM10X10
+1651592,Sphagnum teres,,Encamp,2479,31TCH9207,31TCH90
+1651655,Sphagnum warnstorfii,,Encamp,2058,31TCH9211,31TCH91
+1651586,Sphagnum teres,,Ordino,1886,31TCH8119,31TCH81
+1651593,Sphagnum teres,,Lles de Cerdanya,2190,31TCH9204,31TCH90
+1651587,Sphagnum teres,,Ordino,1886,31TCH8119,31TCH81
+1651588,Sphagnum teres,,Ordino,1886,31TCH8119,31TCH81
+1651589,Sphagnum teres,,Ordino,2272,31TCH8218,31TCH81
+1651590,Sphagnum teres,,Auzat,2453,31TCH7419,31TCH71
+1651591,Sphagnum teres,,Alins,2527,31TCH7114,31TCH71
+1651595,Sphagnum teres,,Canillo,2458,31TCH8912,31TCH81
+1651704,Sphagnum warnstorfii,,Canillo,2246,31TCH9216,31TCH91
+1651703,Sphagnum warnstorfii,,Canillo,2246,31TCH9216,31TCH91
+1651702,Sphagnum warnstorfii,,Ordino,1647,31TCH8019,31TCH81
+1651701,Sphagnum warnstorfii,,Encamp,2340,31TCH8506,31TCH80
+1651700,Sphagnum warnstorfii,,Escaldes-Engordany,2090,31TCH8504,31TCH80
+1651699,Sphagnum warnstorfii,,Encamp,2155,31TCH8407,31TCH80
+1651698,Sphagnum warnstorfii,,Encamp,2155,31TCH8407,31TCH80
+1651697,Sphagnum warnstorfii,,Escaldes-Engordany,2566,31TCH8406,31TCH80
+1651696,Sphagnum warnstorfii,,Escaldes-Engordany,2410,31TCH8302,31TCH80
+1651695,Sphagnum warnstorfii,,Escaldes-Engordany,2244,31TCH8303,31TCH80
+1651694,Sphagnum warnstorfii,,Escaldes-Engordany,2410,31TCH8302,31TCH80
+1651693,Sphagnum warnstorfii,,Escaldes-Engordany,2111,31TCH8203,31TCH80
+1651692,Sphagnum warnstorfii,,Escaldes-Engordany,2111,31TCH8203,31TCH80
+1651691,Sphagnum warnstorfii,,Escaldes-Engordany,2225,31TCH8202,31TCH80
+1651690,Sphagnum warnstorfii,,Canillo,2246,31TCH9216,31TCH91
+1651689,Sphagnum warnstorfii,,Canillo,2246,31TCH9216,31TCH91
+1651688,Sphagnum warnstorfii,,Canillo,2361,31TCH9315,31TCH91
+1651687,Sphagnum warnstorfii,,Escaldes-Engordany,2307,31TCH8703,31TCH80
+1651686,Sphagnum warnstorfii,,Escaldes-Engordany,2307,31TCH8703,31TCH80
+1651685,Sphagnum warnstorfii,,Escaldes-Engordany,2326,31TCH8503,31TCH80
+1651684,Sphagnum warnstorfii,,Escaldes-Engordany,2326,31TCH8503,31TCH80
+1651683,Sphagnum warnstorfii,,Escaldes-Engordany,2326,31TCH8503,31TCH80
+1651682,Sphagnum warnstorfii,,Escaldes-Engordany,2373,31TCH8803,31TCH80
+1651681,Sphagnum warnstorfii,,Escaldes-Engordany,2297,31TCH8603,31TCH80
+1651680,Sphagnum warnstorfii,,Escaldes-Engordany,2529,31TCH8903,31TCH80
+1651679,Sphagnum warnstorfii,,Escaldes-Engordany,2373,31TCH8803,31TCH80
+1651678,Sphagnum warnstorfii,,Escaldes-Engordany,2306,31TCH8804,31TCH80
+1651677,Sphagnum warnstorfii,,Escaldes-Engordany,2306,31TCH8804,31TCH80
+1651676,Sphagnum warnstorfii,,Encamp,2498,31TCH8905,31TCH80
+1651675,Sphagnum warnstorfii,,Escaldes-Engordany,2306,31TCH8804,31TCH80
+1651674,Sphagnum warnstorfii,,Escaldes-Engordany,2307,31TCH8703,31TCH80
+1651673,Sphagnum warnstorfii,,Encamp,2212,31TCH9209,31TCH90
+1651672,Sphagnum warnstorfii,,Canillo,2115,31TCH9212,31TCH91
+1651671,Sphagnum warnstorfii,,Encamp,2452,31TCH8807,31TCH80
+1651670,Sphagnum warnstorfii,,Encamp,2452,31TCH8807,31TCH80
+1651669,Sphagnum warnstorfii,,Encamp,2743,31TCH8806,31TCH80
+1651668,Sphagnum warnstorfii,,Encamp,2363,31TCH9010,31TCH91
+1651667,Sphagnum warnstorfii,,Canillo,2414,31TCH8911,31TCH81
+1651666,Sphagnum warnstorfii,,Canillo,2414,31TCH8911,31TCH81
+1651665,Sphagnum warnstorfii,,Encamp,2396,31TCH9108,31TCH90
+1651664,Sphagnum warnstorfii,,Encamp,2212,31TCH9209,31TCH90
+1651663,Sphagnum warnstorfii,,Encamp,2452,31TCH8807,31TCH80
+1651662,Sphagnum warnstorfii,,Encamp,2743,31TCH8806,31TCH80
+1651661,Sphagnum warnstorfii,,Encamp,2295,31TCH9208,31TCH90
+1651660,Sphagnum warnstorfii,,Encamp,2284,31TCH9110,31TCH91
+1651659,Sphagnum warnstorfii,,Encamp,2645,31TCH9109,31TCH90
+1651658,Sphagnum warnstorfii,,Canillo,2115,31TCH9212,31TCH91
+1651657,Sphagnum warnstorfii,,Encamp,2212,31TCH9209,31TCH90
+1651656,Sphagnum warnstorfii,,Canillo,2115,31TCH9212,31TCH91
+1651654,Sphagnum warnstorfii,,Encamp,2115,31TCH8609,31TCH80
+1651653,Sphagnum warnstorfii,,Canillo,2289,31TCH9012,31TCH91
+1651652,Sphagnum warnstorfii,,Canillo,2213,31TCH8812,31TCH81
+1651651,Sphagnum warnstorfii,,Canillo,2361,31TCH9315,31TCH91
+1651650,Sphagnum teres,,Canillo,2246,31TCH9216,31TCH91
+1651649,Sphagnum teres,,Ordino,2468,31TCH8021,31TCH82
+1651648,Sphagnum teres,,Ordino,2209,31TCH8121,31TCH82
+1651647,Sphagnum teres,,Ordino,2084,31TCH7920,31TCH72
+1651646,Sphagnum teres,,Ordino,1610,31TCH7917,31TCH71
+1651645,Sphagnum teres,,Ordino,2406,31TCH7617,31TCH71
+1651644,Sphagnum teres,,Ordino,2541,31TCH7517,31TCH71
+1651643,Sphagnum teres,,Canillo,2199,31TCH9115,31TCH91
+1651642,Sphagnum teres,,Porta,1852,31TCH9813,31TCH91
+1651641,Sphagnum teres,,Escaldes-Engordany,2090,31TCH8504,31TCH80
+1651640,Sphagnum teres,,Canillo,2315,31TCH9413,31TCH91
+1651639,Sphagnum teres,,Canillo,2315,31TCH9413,31TCH91
+1651638,Sphagnum teres,,Canillo,2315,31TCH9413,31TCH91
+1651637,Sphagnum teres,,Canillo,2467,31TCH9313,31TCH91
+1651636,Sphagnum teres,,Canillo,2145,31TCH9316,31TCH91
+1651635,Sphagnum teres,,Canillo,2145,31TCH9316,31TCH91
+1651634,Sphagnum teres,,Encamp,2172,31TCH8507,31TCH80
+1651633,Sphagnum teres,,Encamp,2172,31TCH8507,31TCH80
+1651632,Sphagnum teres,,Escaldes-Engordany,2566,31TCH8406,31TCH80
+1651631,Sphagnum teres,,Escaldes-Engordany,2248,31TCH8505,31TCH80
+1651630,Sphagnum teres,,Encamp,2340,31TCH8506,31TCH80
+1651629,Sphagnum teres,,Escaldes-Engordany,2566,31TCH8406,31TCH80
+1651628,Sphagnum teres,,Sant Julià de Lòria,2598,31TCH8101,31TCH80
+1651627,Sphagnum teres,,Escaldes-Engordany,2410,31TCH8302,31TCH80
+1651626,Sphagnum teres,,Escaldes-Engordany,2111,31TCH8203,31TCH80
+1651625,Sphagnum teres,,Escaldes-Engordany,2410,31TCH8302,31TCH80
+1651624,Sphagnum teres,,Escaldes-Engordany,2410,31TCH8302,31TCH80
+1651623,Sphagnum teres,,Canillo,1903,31TCH9116,31TCH91
+1651622,Sphagnum teres,,Escaldes-Engordany,2111,31TCH8203,31TCH80
+1651621,Sphagnum teres,,Escaldes-Engordany,2111,31TCH8203,31TCH80
+1651620,Sphagnum teres,,Canillo,2246,31TCH9216,31TCH91
+1651619,Sphagnum teres,,Canillo,2246,31TCH9216,31TCH91
+1651618,Sphagnum teres,,Canillo,2246,31TCH9216,31TCH91
+1651617,Sphagnum teres,,Canillo,2361,31TCH9315,31TCH91
+1651616,Sphagnum teres,,Escaldes-Engordany,2297,31TCH8603,31TCH80
+1651615,Sphagnum teres,,Escaldes-Engordany,2326,31TCH8503,31TCH80
+1651614,Sphagnum teres,,Escaldes-Engordany,2326,31TCH8503,31TCH80
+1651613,Sphagnum teres,,Escaldes-Engordany,2326,31TCH8503,31TCH80
+1651612,Sphagnum teres,,Escaldes-Engordany,2326,31TCH8503,31TCH80
+1651611,Sphagnum teres,,Escaldes-Engordany,2326,31TCH8503,31TCH80
+1651610,Sphagnum teres,,Escaldes-Engordany,2090,31TCH8504,31TCH80
+1651609,Sphagnum teres,,Encamp,2212,31TCH9209,31TCH90
+1651608,Sphagnum teres,,Encamp,2295,31TCH9208,31TCH90
+1651607,Sphagnum teres,,Canillo,2115,31TCH9212,31TCH91
+1651606,Sphagnum teres,,Encamp,2535,31TCH9009,31TCH90
+1651605,Sphagnum teres,,Ordino,2245,31TCH7520,31TCH72
+1651604,Sphagnum teres,,Encamp,2441,31TCH8809,31TCH80
+1651603,Sphagnum teres,,Encamp,2441,31TCH8809,31TCH80
+1651602,Sphagnum teres,,Encamp,2274,31TCH8607,31TCH80
+1651601,Sphagnum teres,,Encamp,2452,31TCH8807,31TCH80
+1651600,Sphagnum teres,,Canillo,2140,31TCH9310,31TCH91
+1651599,Sphagnum teres,,Encamp,2212,31TCH9209,31TCH90
+1651598,Sphagnum teres,,Encamp,2212,31TCH9209,31TCH90
+1651597,Sphagnum teres,,Encamp,2535,31TCH9009,31TCH90
+1651596,Sphagnum teres,,Canillo,2115,31TCH9212,31TCH91
+1651594,Sphagnum teres,,Encamp,2396,31TCH9108,31TCH90
+5303409,Sphagnum teres,,Fontrabiouse,1950,,31TDH22
+5303410,Sphagnum teres,,Formiguères,1950,,31TDH21
+5303411,Sphagnum teres,,Formiguères,1950,,31TDH21
+5303412,Sphagnum teres,,Formiguères,1950,,31TDH21
+5303413,Sphagnum teres,,Formiguères,1950,,31TDH21
+5303414,Sphagnum teres,,La Llagonne,1750,,31TDH20
+5303415,Sphagnum teres,,Mantet,1850,,31TDH40
+5303416,Sphagnum teres,,Mantet,1850,,31TDH40
+5303417,Sphagnum teres,,Mont-Louis,1650,,31TDH20
+5303418,Sphagnum teres,,Mont-Louis,1650,,31TDH20
+5303419,Sphagnum teres,,Mont-Louis,1650,,31TDH20
+5303420,Sphagnum teres,,Mosset,950,,31TDH42
+5303421,Sphagnum teres,,Mosset,950,,31TDH42
+5303422,Sphagnum teres,,Nohèdes,1350,,31TDH32
+5303423,Sphagnum teres,,Porta,2150,,31TDH00
+5303424,Sphagnum teres,,Saint-Pierre-dels-Forcats,1750,,31TDH20
+5303425,Sphagnum warnstorfii,,Porté-Puymorens,1950,,31TDH01
+5303426,Sphagnum warnstorfii,,Porté-Puymorens,1950,,31TDH01
+5303427,Sphagnum warnstorfii,,Les Angles,1650,,31TDH21
+5303428,Sphagnum warnstorfii,,Les Angles,1650,,31TDH21
+5303429,Sphagnum warnstorfii,,Les Angles,1650,,31TDH21
+5303430,Sphagnum warnstorfii,,Formiguères,1550,,31TDH21
+5303431,Sphagnum warnstorfii,,Formiguères,1550,,31TDH21
+5303432,Sphagnum warnstorfii,,Porté-Puymorens,1850,,31TDH01
+5303433,Sphagnum warnstorfii,,Les Angles,1750,,31TDH21
+5303434,Sphagnum warnstorfii,,Formiguères,1950,,31TDH21
+5303435,Sphagnum warnstorfii,,Mantet,1850,,31TDH40
+5303436,Sphagnum warnstorfii,,Porta,2150,,31TDH00
+1065511,Sphagnum teres,,,,,31TCH62
+5245833,Sphagnum warnstorfii,1992,,,,31TDH01
+5245716,Sphagnum teres,1986,,,,31TCH61
+5245715,Sphagnum teres,1961,,2030,,31TDH32
+5245714,Sphagnum teres,1877,,1600,,31TDH20
+5245713,Sphagnum teres,1976,,1500,,31TDH13
+5245712,Sphagnum teres,1956,,,,31TDH13
+5245711,Sphagnum teres,2016,,2150,,31TDH42
+5245710,Sphagnum teres,1992,,1700,,31TBH93
+5245708,Sphagnum teres,1964,,,,31TDH21
+5245698,Sphagnum teres,2002,,,,30TXN56
+5245696,Sphagnum teres,1988,,,,31TDH20
+5245694,Sphagnum teres,1883,,,,30TYN34
+5245692,Sphagnum teres,1988,,,,31TDH20
+5245691,Sphagnum teres,1933,,2000,,31TDH11
+5245689,Sphagnum teres,2001,,2225,,31TCH12
+5245688,Sphagnum teres,2001,,,,31TCH02
+5245680,Sphagnum teres,2006,,1690,,31TCH73
+5245682,Sphagnum teres,1986,,,,31TCH02
+1065495,Sphagnum teres,,,1500,,31TCH62
+1065491,Sphagnum teres,,,2200,,31TDH00
+5303015,Sphagnum contortum,,Les Angles,1650,,31TDH21
+5303016,Sphagnum contortum,,Les Angles,1650,,31TDH21
+5303017,Sphagnum contortum,,Les Angles,1650,,31TDH21
+5303018,Sphagnum contortum,,Formiguères,1550,,31TDH21
+5303019,Sphagnum contortum,,Les Angles,1750,,31TDH21
+5303020,Sphagnum contortum,,Formiguères,1950,,31TDH21
+5303021,Sphagnum contortum,,Mosset,950,,31TDH42
+5303022,Sphagnum contortum,,Urbanya,1050,,31TDH42
+5303319,Sphagnum teres,,Mantet,2350,,31TDH40
+5303320,Sphagnum teres,,Mantet,2350,,31TDH40
+5303321,Sphagnum teres,,Mantet,2150,,31TDH40
+5303322,Sphagnum teres,,Mantet,2150,,31TDH40
+5303323,Sphagnum teres,,Mantet,1950,,31TDH40
+5303324,Sphagnum teres,,Mantet,2250,,31TDH40
+5303325,Sphagnum teres,,Mantet,2250,,31TDH40
+5303326,Sphagnum teres,,Mantet,2250,,31TDH40
+5303327,Sphagnum teres,,Mantet,2250,,31TDH40
+5303328,Sphagnum teres,,Mantet,2250,,31TDH40
+5303329,Sphagnum teres,,Eyne,2250,,31TDH20
+5303330,Sphagnum teres,,Nohèdes,2050,,31TDH32
+5303331,Sphagnum teres,,Nohèdes,2050,,31TDH32
+5303332,Sphagnum teres,,Nohèdes,2050,,31TDH32
+5303333,Sphagnum teres,,Nohèdes,2050,,31TDH32
+5303334,Sphagnum teres,,Nohèdes,2050,,31TDH32
+5303335,Sphagnum teres,,Nohèdes,1950,,31TDH32
+5303336,Sphagnum teres,,Nohèdes,1950,,31TDH32
+5303337,Sphagnum teres,,Nohèdes,1950,,31TDH32
+5303338,Sphagnum teres,,Nohèdes,1950,,31TDH32
+5303339,Sphagnum teres,,Nohèdes,1950,,31TDH32
+5303340,Sphagnum teres,,Nohèdes,2150,,31TDH32
+5303341,Sphagnum teres,,Py,2150,,31TDH40
+5303342,Sphagnum teres,,Py,2150,,31TDH40
+5303343,Sphagnum teres,,Py,2250,,31TDH40
+5303344,Sphagnum teres,,Py,2250,,31TDH40
+5303345,Sphagnum teres,,Py,2250,,31TDH40
+5303346,Sphagnum teres,,Py,2250,,31TDH40
+5303347,Sphagnum teres,,Py,2250,,31TDH40
+5303348,Sphagnum teres,,Py,2150,,31TDH40
+5303349,Sphagnum teres,,Py,2250,,31TDH40
+5303350,Sphagnum teres,,Py,2250,,31TDH40
+5303351,Sphagnum teres,,Py,2250,,31TDH40
+5303352,Sphagnum teres,,Py,2250,,31TDH40
+5303353,Sphagnum teres,,Py,2150,,31TDH40
+5303354,Sphagnum teres,,Py,2150,,31TDH40
+5303355,Sphagnum teres,,Py,1950,,31TDH40
+5303356,Sphagnum teres,,Py,1950,,31TDH40
+5303357,Sphagnum teres,,Prats-de-Mollo-la-Preste,2050,,31TDG59
+5303358,Sphagnum teres,,Prats-de-Mollo-la-Preste,1950,,31TDG59
+5303359,Sphagnum teres,,Prats-de-Mollo-la-Preste,1950,,31TDG59
+5303360,Sphagnum teres,,Prats-de-Mollo-la-Preste,1750,,31TDG59
+5303361,Sphagnum teres,,Py,2150,,31TDH40
+5303362,Sphagnum teres,,Py,2150,,31TDH40
+5303363,Sphagnum teres,,Py,2150,,31TDH40
+5303364,Sphagnum teres,,Py,2150,,31TDH40
+5303365,Sphagnum teres,,Py,2250,,31TDH40
+5303366,Sphagnum teres,,Py,2250,,31TDH40
+5303367,Sphagnum teres,,Porté-Puymorens,1750,,31TDH01
+5303368,Sphagnum teres,,Porté-Puymorens,1750,,31TDH01
+5303369,Sphagnum teres,,Porté-Puymorens,1850,,31TDH01
+5303370,Sphagnum teres,,Les Angles,1650,,31TDH21
+5303371,Sphagnum teres,,Angoustrine-Villeneuve-des-Escaldes,2150,,31TDH11
+5303372,Sphagnum teres,,Casteil,2250,,31TDH50
+5303373,Sphagnum teres,,Casteil,2250,,31TDH50
+5303374,Sphagnum teres,,Enveitg,2150,,31TDH00
+5303375,Sphagnum teres,,Bolquère,1950,,31TDH20
+5303376,Sphagnum teres,,Les Angles,1950,,31TDH21
+5303377,Sphagnum teres,,Les Angles,2150,,31TDH21
+5303378,Sphagnum teres,,Les Angles,2150,,31TDH21
+5303379,Sphagnum teres,,Les Angles,1950,,31TDH21
+5303380,Sphagnum teres,,Les Angles,1950,,31TDH21
+5303381,Sphagnum teres,,Les Angles,1650,,31TDH21
+5303382,Sphagnum teres,,Les Angles,1650,,31TDH21
+5303383,Sphagnum teres,,Les Angles,1650,,31TDH21
+5303384,Sphagnum teres,,Formiguères,1550,,31TDH21
+5303385,Sphagnum teres,,Formiguères,1550,,31TDH21
+5303386,Sphagnum teres,,Mosset,2150,,31TDH42
+5303387,Sphagnum teres,,Mosset,2050,,31TDH42
+5303388,Sphagnum teres,,Mosset,1850,,31TDH42
+5303389,Sphagnum teres,,Porté-Puymorens,1850,,31TDH01
+5303390,Sphagnum teres,,Porté-Puymorens,1850,,31TDH01
+5303391,Sphagnum teres,,Olette,2050,,31TDH31
+5303392,Sphagnum teres,,Nohèdes,2050,,31TDH32
+5303393,Sphagnum teres,,Fontrabiouse,1650,,31TDH22
+5303394,Sphagnum teres,,Les Angles,1950,,31TDH21
+5303395,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303396,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303397,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303398,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303399,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303400,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303401,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303402,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303403,Sphagnum teres,,Les Angles,1750,,31TDH21
+5303404,Sphagnum teres,,Bolquère,1750,,31TDH20
+5303405,Sphagnum teres,,Casteil,2050,,31TDH50
+5303406,Sphagnum teres,,Eyne,2050,,31TDH20
+5303407,Sphagnum teres,,Eyne,2050,,31TDH20
+5303408,Sphagnum teres,,Fontrabiouse,1950,,31TDH22
+5245721,Sphagnum teres,1986,,,,30TYN23
+5245720,Sphagnum teres,1986,,,,30TYN23
+5245719,Sphagnum teres,1986,,,,30TYN23
+5245718,Sphagnum teres,1986,,,,30TYN23
+5245717,Sphagnum teres,1986,,,,30TYN23
+5245709,Sphagnum teres,1887,,,,31TDH21
+5245697,Sphagnum teres,1992,,,,30TYN04
+5245695,Sphagnum teres,2001,,,,31TBH81
+5245693,Sphagnum teres,1996,,,,30TYN14
+5245690,Sphagnum teres,1931,,2000,,31TDH11
+5245687,Sphagnum teres,2001,,2225,,31TCH12
+5245686,Sphagnum teres,2001,,,,31TCH12
+5245685,Sphagnum teres,1996,,,,31TCH02
+5245681,Sphagnum teres,1986,,,,31TCH02
+5245667,Sphagnum teres,1877,,,,31TDH20
+5245658,Sphagnum teres,2001,,2000,,30TYN03
+5245657,Sphagnum teres,1887,,,,31TDH21
+5245656,Sphagnum teres,1872,,,,31TDH20
+5245653,Sphagnum teres,1992,,,,30TYN14
+5245645,Sphagnum teres,1929,,,,31TBH64
+5245644,Sphagnum teres,1929,,,,31TBH64
+5245636,Sphagnum teres,1996,,,,31TBH82
+5244252,Sphagnum contortum,1992,,,,30TYN04
+5244245,Sphagnum contortum,1992,,,,30TYN15
+1051965,Sphagnum warnstorfii,2005,,, ,30TYN04
+1051964,Sphagnum teres,2005,,1750, ,30TXN84
+1065508,Sphagnum teres,,,,,31TCH52
+1065536,Sphagnum warnstorfii,,,,,31TCH02
+1065501,Sphagnum teres,,,1800,,30TYN23
+1065500,Sphagnum teres,,,1700,,30TYN23
+1065499,Sphagnum teres,,,1800,,30TYN23
+1065498,Sphagnum teres,,,,,30TYN23
+1065497,Sphagnum teres,,,1860,,31TCH61
+1065496,Sphagnum teres,,,2200,,31TCH21
+1065494,Sphagnum teres,,,2000,,31TCH52
+1065493,Sphagnum teres,,,,,31TCH21
+1065492,Sphagnum teres,,,2200,,31TDH00
+1065490,Sphagnum teres,,,2000,,31TDH11
+1065489,Sphagnum teres,,,2000,,31TCH02
+1065488,Sphagnum teres,,,2225,,31TCH02
+1065487,Sphagnum teres,,,2225,,31TCH02
+1065563,Sphagnum warnstorfii,,,1890,,31TCH31
+1408162,Sphagnum contortum,,,1830,,31TCH94
+1408205,Sphagnum teres,,,1910,,31TCH72
+1408209,Sphagnum teres,,,1410,,31TCH64
+1408208,Sphagnum teres,,,1968,,31TCH91
+1408207,Sphagnum teres,,,1390,,31TCH64
+1408204,Sphagnum teres,,,1850,,31TCH72
+1408203,Sphagnum teres,,,,,31TCH92
+1408202,Sphagnum teres,,,1820,,31TCH94
+1408201,Sphagnum teres,,,,,31TCH91
+1408200,Sphagnum teres,,,,,31TCH63
+1408159,Sphagnum contortum,,,,,31TCH92
+1408158,Sphagnum contortum,,,,,31TCH91
+1408157,Sphagnum contortum,,,,,31TCH63
+1407164,Sphagnum teres,,,1860,,31TCH62
+1406680,Sphagnum teres,,,1620,,30TYN13
+1412013,Sphagnum warnstorfii,,,2090,,30TYN04
+1065486,Sphagnum teres,,,2200,,31TBH81
+1065604,Sphagnum warnstorfii,,,1880,,31TCH22
+1065603,Sphagnum warnstorfii,,,1880,,31TCH22
+1065602,Sphagnum warnstorfii,,,1880,,31TCH22
+1065601,Sphagnum warnstorfii,,,1800,,31TCH32
+1065600,Sphagnum warnstorfii,,,1800,,31TCH32
+1065599,Sphagnum warnstorfii,,,1800,,31TCH32
+1065598,Sphagnum warnstorfii,,,1800,,31TCH32
+1065597,Sphagnum warnstorfii,,,2000,,31TCH32
+1065596,Sphagnum warnstorfii,,,1750,,31TCH32
+1065595,Sphagnum warnstorfii,,,1750,,31TCH32
+1065594,Sphagnum warnstorfii,,,1750,,31TCH32
+1065593,Sphagnum warnstorfii,,,1800,,31TCH32
+1065592,Sphagnum warnstorfii,,,1800,,31TCH32
+1065590,Sphagnum warnstorfii,,,1800,,31TCH32
+1065589,Sphagnum warnstorfii,,,1800,,31TCH32
+1065588,Sphagnum warnstorfii,,,1800,,31TCH32
+1065587,Sphagnum warnstorfii,,,1800,,31TCH32
+1065586,Sphagnum warnstorfii,,,1800,,31TCH32
+1065585,Sphagnum warnstorfii,,,1800,,31TCH32
+1065584,Sphagnum warnstorfii,,,1800,,31TCH32
+1065583,Sphagnum warnstorfii,,,2000,,31TCH22
+1065582,Sphagnum warnstorfii,,,2000,,31TCH22
+1065581,Sphagnum warnstorfii,,,2000,,31TCH22
+1065580,Sphagnum warnstorfii,,,,,31TCH22
+1065579,Sphagnum warnstorfii,,,,,31TCH22
+1065578,Sphagnum warnstorfii,,,1870,,31TCH32
+1065577,Sphagnum warnstorfii,,,2008,,31TCH22
+1065576,Sphagnum warnstorfii,,,2008,,31TCH22
+1065575,Sphagnum warnstorfii,,,1900,,31TCH32
+1065574,Sphagnum warnstorfii,,,1950,,31TCH22
+1065573,Sphagnum warnstorfii,,,1770,,31TCH32
+1065572,Sphagnum warnstorfii,,,1800,,31TCH32
+1065571,Sphagnum warnstorfii,,,1800,,31TCH32
+1065570,Sphagnum warnstorfii,,,2200,,31TCH33
+1065569,Sphagnum warnstorfii,,,2000,,31TCH22
+1065568,Sphagnum warnstorfii,,,2300,,31TCH32
+1065567,Sphagnum warnstorfii,,,,,31TCH32
+1065566,Sphagnum warnstorfii,,,2400,,31TCH02
+1065565,Sphagnum warnstorfii,,,,,31TCH02
+1065564,Sphagnum warnstorfii,,,1890,,31TCH31
+1065562,Sphagnum warnstorfii,,,2000,,31TCH31
+1065561,Sphagnum warnstorfii,,,1900,,31TCH31
+1065560,Sphagnum warnstorfii,,,2050,,31TCH32
+1065559,Sphagnum warnstorfii,,,1500,,31TCH41
+1065557,Sphagnum warnstorfii,,,,,31TCH12
+1065556,Sphagnum warnstorfii,,,,,31TCH12
+1065555,Sphagnum warnstorfii,,,,,31TCH12
+1065554,Sphagnum warnstorfii,,,,,31TCH12
+1065553,Sphagnum warnstorfii,,,,,31TCH02
+1065552,Sphagnum warnstorfii,,,1760,,31TCH02
+1065551,Sphagnum warnstorfii,,,1758,,31TCH02
+1065550,Sphagnum warnstorfii,,,1758,,31TCH02
+1065549,Sphagnum warnstorfii,,,1758,,31TCH02
+1065548,Sphagnum warnstorfii,,,1758,,31TCH02
+1065547,Sphagnum warnstorfii,,,2080,,31TCH41
+1065546,Sphagnum warnstorfii,,,2200,,31TDH00
+1065545,Sphagnum warnstorfii,,,,,31TCH31
+1065544,Sphagnum warnstorfii,,,2400,,31TCH02
+1065543,Sphagnum warnstorfii,,,2275,,31TCH02
+1065542,Sphagnum warnstorfii,,,2275,,31TCH02
+1065541,Sphagnum warnstorfii,,,2200,,31TBH92
+1065540,Sphagnum warnstorfii,,,1950,,31TCH02
+1065539,Sphagnum warnstorfii,,,2350,,31TCH02
+1065538,Sphagnum warnstorfii,,,,,31TCH02
+1065537,Sphagnum warnstorfii,,,,,31TCH02
+1065535,Sphagnum warnstorfii,,,2120,,31TCH80
+1065534,Sphagnum warnstorfii,,,1700,,31TCH21
+1065533,Sphagnum warnstorfii,,,,,31TCH21
+1065532,Sphagnum warnstorfii,,,,,31TCH02
+1065531,Sphagnum teres,,,1360,,31TCH61
+1065530,Sphagnum teres,,,,,31TCH62
+1065529,Sphagnum teres,,,1860,,31TCH61
+1065528,Sphagnum teres,,,1450,,31TCH61
+1065527,Sphagnum teres,,,,,31TCH32
+1065526,Sphagnum teres,,,1880,,31TCH22
+1065525,Sphagnum teres,,,2000,,31TCH32
+1065524,Sphagnum teres,,,,,31TCH22
+1065523,Sphagnum teres,,,2100,,31TCH24
+1065522,Sphagnum teres,,,2150,,31TCH24
+1065521,Sphagnum teres,,,2130,,31TCH24
+1065520,Sphagnum teres,,,,,31TCH52
+1065519,Sphagnum teres,,,,,31TCH52
+1065518,Sphagnum teres,,,,,31TCH52
+1065517,Sphagnum teres,,,1800,,30TYN14
+1065516,Sphagnum teres,,,1830,,30TYN14
+1065515,Sphagnum teres,,,1800,,30TYN14
+1065514,Sphagnum teres,,,1875,,30TYN14
+1065513,Sphagnum teres,,,1950,,30TYN14
+1065512,Sphagnum teres,,,,,31TCH32
+1065510,Sphagnum teres,,,2075,,31TCH32
+1065509,Sphagnum teres,,,2100,,31TCH32
+1065507,Sphagnum teres,,,1890,,31TCH31
+1065506,Sphagnum teres,,,1890,,31TCH31
+1065505,Sphagnum teres,,,2000,,31TCH31
+1065504,Sphagnum teres,,,2000,,31TCH31
+1065503,Sphagnum teres,,,2000,,31TCH31
+1065502,Sphagnum teres,,,2000,,31TCH31
+1065485,Sphagnum teres,,,,,31TCH32
+1065484,Sphagnum teres,,,,,31TCH31
+1065483,Sphagnum teres,,,2080,,31TCH41
+1065482,Sphagnum teres,,,2100,,31TBH53
+1065481,Sphagnum teres,,,,,31TCH62
+1065480,Sphagnum teres,,,,,31TCH21
+1065479,Sphagnum teres,,,2200,,31TCH02
+1065478,Sphagnum teres,,,2000,,31TCH02
+1065476,Sphagnum teres,,,,,31TDH00
+1065475,Sphagnum teres,,,2000,,31TDH21
+1065474,Sphagnum teres,,,2000,,31TDH20
+1065473,Sphagnum teres,,,1716,,31TCH21
+1065472,Sphagnum teres,,,,,31TCH21
+1064854,Sphagnum contortum,,,1880,,31TCH22
+1064853,Sphagnum contortum,,,1880,,31TCH22
+1064852,Sphagnum contortum,,,1800,,31TCH32
+1064851,Sphagnum contortum,,,1800,,31TCH32
+1064850,Sphagnum contortum,,,,,31TCH22
+1064849,Sphagnum contortum,,,1870,,31TCH32
+1064848,Sphagnum contortum,,,1800,,31TCH32
+1064847,Sphagnum contortum,,,2000,,31TDH14
+1417996,Sphagnum teres,,,1930,,30TYN13
+1417878,Sphagnum teres,,,1800,,31TCH32
+1417823,Sphagnum teres,,,1860,,31TCH62
+1417822,Sphagnum teres,,,1860,,31TCH62
+1416808,Sphagnum contortum,,,1320,,31TCH64
+1416837,Sphagnum teres,,,1338,,31TBH66
+1416707,Sphagnum teres,,,1435,,30TYN04
+1416703,Sphagnum teres,,,1538,,30TYN04
+1416611,Sphagnum contortum,,,1850,,31TCH32
+1416603,Sphagnum teres,,,1860,,30TYN23
+1416602,Sphagnum teres,,,1860,,30TYN23
+1416595,Sphagnum contortum,,,2200,,31TCH72
+1416457,Sphagnum contortum,,,2260,,31TCH72
+1416265,Sphagnum teres,,,1131,,30TXN26
+1413767,Sphagnum warnstorfii,,,1720,,31TBH91
+1413723,Sphagnum teres,,,2250,,31TCH11
+1413688,Sphagnum warnstorfii,,,1500,,31TCH11
+1413673,Sphagnum teres,,,2190,,31TCH02
+1413668,Sphagnum teres,,,2190,,31TCH02
+1413666,Sphagnum warnstorfii,,,2190,,31TCH02
+1413606,Sphagnum warnstorfii,,,2030,,31TCH02
+1413605,Sphagnum teres,,,2030,,31TCH02
+1413232,Sphagnum teres,,,2190,,31TBH63
+1413229,Sphagnum teres,,,2190,,31TBH63
+1413226,Sphagnum teres,,,2190,,31TBH63
+1413225,Sphagnum teres,,,2190,,31TBH63
+1412152,Sphagnum teres,,,2000,,31TCH31
+1412151,Sphagnum teres,,,1650,,31TCH12
+1412017,Sphagnum teres,,,2090,,30TYN04
+1412016,Sphagnum teres,,,2090,,30TYN04
+1412015,Sphagnum teres,,,2090,,30TYN04
+1412014,Sphagnum teres,,,2090,,30TYN04
+1412003,Sphagnum warnstorfii,,,2090,,30TYN04
+1411997,Sphagnum teres,,,2090,,30TYN04
+1411978,Sphagnum teres,,,2090,,30TYN04
+289563,Sphagnum warnstorfii,2017,,2500,,
+5245790,Sphagnum warnstorfii,2012,,,,31TCH32
+1065591,Sphagnum warnstorfii,,,1800,,31TCH32
+1065558,Sphagnum warnstorfii,,,2100,,31TCH02
+5245704,Sphagnum teres,1992,,,,30TYN14
+5245702,Sphagnum teres,1962,,,,30TYN14
+5245705,Sphagnum teres,1992,,,,30TYN04
+5245684,Sphagnum teres,1986,,,,31TCH02
+5245683,Sphagnum teres,1986,,,,31TCH02
+5245674,Sphagnum teres,1989,,,,31TCH34
+289562,Sphagnum warnstorfii,2017,Encamp,2500,31TCH9008,31TCH90
+289561,Sphagnum teres,2017,,,,
+289560,Sphagnum teres,2017,Canillo,1820,31TCH9217,31TCH91
+289559,Sphagnum teres,2017,La Massana,1750,31TCH7510,31TCH71
+289558,Sphagnum teres,2017,Escaldes-Engordany,1800,31TCH8305,31TCH80
+289557,Sphagnum teres,2017,Encamp,2409,31TCH9208,31TCH90
+289556,Sphagnum teres,2017,Canillo,1986,31TCH8819,31TCH81
+289555,Sphagnum teres,2017,Ordino,2190,31TCH7521,31TCH72
+289493,Sphagnum contortum,2017,,2100,,
+289492,Sphagnum contortum,2017,Canillo,2104,31TCH8416,31TCH81
+5245665,Sphagnum teres,1878,,,,31TDH51
+5245844,Sphagnum warnstorfii,2012,,,,31TCH31
+5245841,Sphagnum warnstorfii,2010,,2200,,31TCH33
+5245840,Sphagnum warnstorfii,2010,,1820,,31TCH32
+5245839,Sphagnum warnstorfii,2010,,1828,,31TCH32
+5245838,Sphagnum warnstorfii,2010,,1970,,31TCH23
+5245837,Sphagnum warnstorfii,2012,,,,31TCH32
+5245836,Sphagnum warnstorfii,2006,,2008,,31TCH22
+5245835,Sphagnum warnstorfii,2014,,1920,,31TDH01
+5245834,Sphagnum warnstorfii,2015,,1920,,31TDH01
+5245832,Sphagnum warnstorfii,1992,,,,31TDH01
+5245831,Sphagnum warnstorfii,2004,,,,31TCH11
+5245827,Sphagnum warnstorfii,1992,,1440,,30TYN04
+5245826,Sphagnum warnstorfii,1992,,2060,,30TYN04
+5245825,Sphagnum warnstorfii,1992,,,,30TYN04
+5245824,Sphagnum warnstorfii,1992,,,,30TYN04
+5245823,Sphagnum warnstorfii,1992,,,,30TYN04
+5245822,Sphagnum warnstorfii,2004,,,,30TYN04
+5245821,Sphagnum warnstorfii,2004,,,,31TCH02
+5245819,Sphagnum warnstorfii,2004,,,,31TCH02
+5245818,Sphagnum warnstorfii,2004,,,,31TCH02
+5245817,Sphagnum warnstorfii,2004,,,,31TCH02
+5245816,Sphagnum warnstorfii,2004,,,,31TCH02
+5245815,Sphagnum warnstorfii,2004,,,,31TBH91
+5245814,Sphagnum warnstorfii,2004,,,,31TCH02
+5245813,Sphagnum warnstorfii,2004,,,,31TCH02
+5245812,Sphagnum warnstorfii,2004,,,,31TCH02
+5245810,Sphagnum warnstorfii,1995,,,,31TCH32
+5245809,Sphagnum warnstorfii,1995,,,,31TCH22
+5245808,Sphagnum warnstorfii,1995,,,,31TCH13
+5245806,Sphagnum warnstorfii,1995,,,,31TCH31
+5245804,Sphagnum warnstorfii,1992,,,,31TDH31
+5245803,Sphagnum warnstorfii,1992,,2080,,31TCH31
+5245802,Sphagnum warnstorfii,1992,,1870,,31TCH22
+5245801,Sphagnum warnstorfii,1992,,1600,,31TCH22
+5245800,Sphagnum warnstorfii,1992,,2300,,31TCH32
+5245776,Sphagnum warnstorfii,2012,,,,31TCH02
+5245799,Sphagnum warnstorfii,1992,,1540,,30TYN05
+5245798,Sphagnum warnstorfii,1992,,1540,,30TYN04
+5245772,Sphagnum warnstorfii,2012,,,,31TCH02
+5245797,Sphagnum warnstorfii,1992,,1890,,31TCH21
+5245796,Sphagnum warnstorfii,1992,,1915,,31TDH01
+5245795,Sphagnum warnstorfii,1992,,,,31TDH31
+5245794,Sphagnum warnstorfii,2012,,,,31TDH00
+5245793,Sphagnum warnstorfii,2012,,,,31TCH41
+5245792,Sphagnum warnstorfii,2012,,,,31TCH41
+5245791,Sphagnum warnstorfii,2012,,,,31TCH32
+5245789,Sphagnum warnstorfii,2012,,,,31TCH32
+5245788,Sphagnum warnstorfii,2012,,,,31TCH32
+5245787,Sphagnum warnstorfii,2012,,,,31TCH32
+5245786,Sphagnum warnstorfii,2012,,,,31TCH31
+5245785,Sphagnum warnstorfii,2012,,,,31TCH31
+5245784,Sphagnum warnstorfii,2012,,,,31TCH22
+5245783,Sphagnum warnstorfii,2012,,,,31TCH22
+5245782,Sphagnum warnstorfii,2012,,,,31TCH22
+5245781,Sphagnum warnstorfii,2012,,,,31TCH21
+5245780,Sphagnum warnstorfii,2012,,,,31TCH12
+5245779,Sphagnum warnstorfii,2012,,,,31TCH12
+5245778,Sphagnum warnstorfii,2012,,,,31TCH02
+5245777,Sphagnum warnstorfii,2012,,,,31TCH02
+5245775,Sphagnum warnstorfii,2012,,,,31TCH02
+5245774,Sphagnum warnstorfii,2012,,,,31TCH02
+5245773,Sphagnum warnstorfii,2012,,,,31TCH02
+5245771,Sphagnum warnstorfii,2012,,,,31TCH02
+5245770,Sphagnum warnstorfii,2012,,,,31TCH02
+5245769,Sphagnum warnstorfii,2012,,,,31TCH02
+5245768,Sphagnum warnstorfii,2012,,,,31TCG89
+5245767,Sphagnum warnstorfii,2012,,,,31TCG59
+5245766,Sphagnum warnstorfii,2012,,,,31TBH91
+5245765,Sphagnum warnstorfii,2012,,,,30TYN04
+5245763,Sphagnum warnstorfii,1957,,1900,,31TDH01
+5245762,Sphagnum warnstorfii,1938,,1825,,31TDH01
+5245761,Sphagnum warnstorfii,2006,,2120,,31TCG89
+5245760,Sphagnum warnstorfii,1996,,,,31TCH33
+5245759,Sphagnum warnstorfii,1996,,,,31TCH33
+5245758,Sphagnum warnstorfii,1996,,,,31TCH32
+5245757,Sphagnum warnstorfii,1996,,,,31TCH31
+5245756,Sphagnum warnstorfii,1996,,,,31TCH22
+5245755,Sphagnum warnstorfii,1996,,,,31TCG59
+5245754,Sphagnum warnstorfii,2004,,,,31TDH00
+5245753,Sphagnum warnstorfii,2004,,,,31TCH32
+5245752,Sphagnum teres,1977,,,,31TCH31
+5245751,Sphagnum teres,2001,,2000,,31TCH21
+5245749,Sphagnum teres,1986,,,,31TCH62
+5245747,Sphagnum teres,1986,,,,31TCH52
+5245746,Sphagnum teres,1986,,,,31TCH52
+5245745,Sphagnum teres,1986,,,,31TCH31
+5245744,Sphagnum teres,1986,,,,31TCH31
+5245743,Sphagnum teres,1986,,,,31TCH31
+5245742,Sphagnum teres,1986,,,,31TCH21
+5245741,Sphagnum teres,1986,,,,31TCH21
+5245740,Sphagnum teres,1990,,,,31TBH64
+5245739,Sphagnum teres,2010,,2200,,31TCH33
+5245738,Sphagnum teres,2010,,2200,,31TCH32
+5245737,Sphagnum teres,2010,,1820,,31TCH32
+5245736,Sphagnum teres,2010,,1828,,31TCH32
+5245735,Sphagnum teres,2010,,1970,,31TCH23
+5245734,Sphagnum teres,2010,,1400,,31TCH14
+5245733,Sphagnum teres,2006,,2125,,31TCH24
+5245731,Sphagnum teres,2002,,1500,,30TXN75
+5245730,Sphagnum teres,2014,,1920,,31TDH01
+5245729,Sphagnum teres,2015,,1920,,31TDH01
+5245677,Sphagnum teres,1986,,,,31TCH32
+5245671,Sphagnum teres,1977,,,,31TCH31
+5245670,Sphagnum teres,1977,,,,31TCH12
+5245669,Sphagnum teres,1956,,2125,,31TCH31
+5245668,Sphagnum teres,1877,,1600,,31TDH20
+5245666,Sphagnum teres,1878,,1660,,31TDH20
+5245664,Sphagnum teres,1894,,,,31TDH12
+5245663,Sphagnum teres,1976,,2100,,31TDH13
+5245662,Sphagnum teres,2001,,1800,,31TCH32
+5245661,Sphagnum teres,2001,,1860,,31TCH62
+5245660,Sphagnum teres,2001,,1380,,31TCH61
+5245659,Sphagnum teres,2001,,,,31TCH00
+5245655,Sphagnum teres,2011,,2270,,31TDG29
+5245654,Sphagnum teres,2011,,1129,,30TXN26
+5245648,Sphagnum teres,1957,,1900,,31TDH01
+5245647,Sphagnum teres,1957,,1900,,31TDH01
+5245646,Sphagnum teres,1956,,1500,,31TDH31
+5245643,Sphagnum teres,1938,,,,31TDH31
+5245642,Sphagnum teres,1938,,1850,,31TDH12
+5245641,Sphagnum teres,1938,,1075,,31TDH12
+5245640,Sphagnum teres,1938,,,,31TDH02
+5245639,Sphagnum teres,1938,,,,31TDH01
+5245638,Sphagnum teres,1938,,2050,,31TCH91
+5245637,Sphagnum teres,1938,,,,31TCH85
+5245635,Sphagnum teres,1996,,,,31TDH00
+5245634,Sphagnum teres,1996,,,,31TCH12
+5245633,Sphagnum teres,1996,,,,30TYN23
+5245632,Sphagnum teres,1972,,,,31TCH61
+5245631,Sphagnum teres,1962,,,,31TCH31
+5245630,Sphagnum teres,1962,,,,31TDH00
+5245629,Sphagnum teres,1993,,1650,,31TCH12
+5245628,Sphagnum teres,1968,,,,31TCH62
+5245627,Sphagnum teres,1968,,,,31TCH51
+5245626,Sphagnum teres,1968,,,,31TCH51
+5245625,Sphagnum teres,1996,,,,31TDH22
+5245624,Sphagnum teres,1996,,,,31TDH21
+5245623,Sphagnum teres,1996,,,,31TDH11
+5245622,Sphagnum teres,1996,,,,31TCH62
+5245621,Sphagnum teres,1996,,,,31TCH62
+5245620,Sphagnum teres,1996,,,,31TCH62
+5245619,Sphagnum teres,1996,,,,31TCH62
+5245618,Sphagnum teres,1996,,,,31TCH62
+5245617,Sphagnum teres,1996,,,,31TCH52
+5245616,Sphagnum teres,1996,,,,31TCH32
+5245615,Sphagnum teres,1996,,,,31TCH32
+5245614,Sphagnum teres,1996,,,,31TCH31
+5245613,Sphagnum teres,1996,,,,31TCH22
+5245612,Sphagnum teres,1996,,,,31TCH22
+5245611,Sphagnum teres,1996,,,,31TCH21
+5245610,Sphagnum teres,1996,,,,31TBH82
+5245609,Sphagnum teres,1996,,,,30TYN14
+5244254,Sphagnum contortum,2010,,1820,,31TCH32
+5244253,Sphagnum contortum,2006,,1510,,31TDH22
+5244251,Sphagnum contortum,1883,,,,30TYN34
+5244250,Sphagnum contortum,1985,,1860,,31TCH32
+5244249,Sphagnum contortum,1976,,1350,,31TDH12
+5244248,Sphagnum contortum,1885,,,,30TYN34
+5244247,Sphagnum contortum,1998,,1870,,31TCH32
+5244246,Sphagnum contortum,1998,,,,31TCH22
+5244244,Sphagnum contortum,1992,,1600,,31TCH22
+5244243,Sphagnum contortum,1996,,,,31TCH32
+5244242,Sphagnum contortum,1984,,1860,,31TCH32
+5244241,Sphagnum contortum,2004,,,,31TCH22
+5244240,Sphagnum contortum,1877,,,,30TYN37
+5245811,Sphagnum warnstorfii,2010,,1500,,31TCH41
+5245807,Sphagnum warnstorfii,1995,,,,31TCH21
+5245764,Sphagnum warnstorfii,1962,,,,31TDH31
+1408160,Sphagnum contortum,,,1390,,31TCH64
+1065477,Sphagnum teres,,,,,31TCH02
+5245843,Sphagnum warnstorfii,2012,,,,31TCH21
+5245842,Sphagnum warnstorfii,2012,,,,31TCH21
+5245820,Sphagnum warnstorfii,2004,,,,31TCH02
+5245750,Sphagnum teres,1986,,,,31TCH62
+5245748,Sphagnum teres,1986,,,,31TCH62
+5245707,Sphagnum teres,1964,,,,31TDH21
+5245706,Sphagnum teres,1976,,1725,,31TDH22
+5245679,Sphagnum teres,1994,,1591,,30TYN24
+5245678,Sphagnum teres,1994,,1480,,30TYN24
+5245676,Sphagnum teres,1986,,,,31TCH32
+5245675,Sphagnum teres,2004,,2180,,31TBH64
+5245673,Sphagnum teres,1996,,2020,,31TDH11
+5245672,Sphagnum teres,1977,,,,31TCH62
+5245652,Sphagnum teres,1990,,,,31TBH64
+5245651,Sphagnum teres,1964,,,,31TDH22
+5245650,Sphagnum teres,1964,,2400,,31TDH12
+5245649,Sphagnum teres,1962,,,,31TDH31
+5244256,Sphagnum contortum,2010,,1820,,31TCH32
+5244255,Sphagnum contortum,2010,,1820,,31TCH32
+5245829,Sphagnum warnstorfii,1992,,,,30TYN04
+5245828,Sphagnum warnstorfii,1992,,,,30TYN04
+5245699,Sphagnum teres,1962,,,,30TYN04
+5245700,Sphagnum teres,1962,,,,30TYN04
+5245703,Sphagnum teres,1992,,,,30TYN14
+5245830,Sphagnum warnstorfii,1992,,,,30TYN14
+5245701,Sphagnum teres,1962,,,,30TYN14
+5245805,Sphagnum warnstorfii,1887,,,,31TDH21
+5245732,Sphagnum teres,2001,,1930,,30TYN14
+5245728,Sphagnum teres,1996,,,,31TBH82
+5245727,Sphagnum teres,1996,,,,31TBH82
+5245726,Sphagnum teres,2001,,1800,,30TYN23
+5245725,Sphagnum teres,1996,,,,30TYN23
+5245724,Sphagnum teres,1996,,,,30TYN23
+5245723,Sphagnum teres,1996,,,,30TYN24
+5245722,Sphagnum teres,1986,,,,30TYN23
+8723759,Sphagnum teres,1988,Bolquère,1975,31TDH1910,31TDH11
+8723760,Sphagnum teres,1988,La Llagonne,1641,31TDH2607,31TDH20
+8748351,Sphagnum teres,,Eyne,2287,31TDG2897,31TDG29
+8852507,Sphagnum teres,2016,Mosset,2145,31TDH3423,31TDH32
+8852766,Sphagnum teres,2014,Porté-Puymorens,1915,31TDH0610,31TDH01
+8852768,Sphagnum warnstorfii,2014,Porté-Puymorens,1915,31TDH0610,31TDH01
+8852953,Sphagnum teres,2011,Eyne,2283,31TDG2897,31TDG29
+8888441,Sphagnum teres,,Mantet,1986,31TDH4000,31TDH40
+8888474,Sphagnum teres,,Py,2126,31TDH4900,31TDH40
+8888508,Sphagnum teres,,Mantet,2215,31TDG4398,31TDG49
+8888551,Sphagnum teres,,Py,2259,31TDG4599,31TDG49
+8888570,Sphagnum teres,,Py,2247,31TDG4499,31TDG49
+8888585,Sphagnum teres,,Py,2231,31TDH4400,31TDH40
+8888605,Sphagnum teres,,Py,2224,31TDH4400,31TDH40
+8889163,Sphagnum teres,,Prats-de-Mollo-la-Preste,1753,31TDG4998,31TDG49
+8889271,Sphagnum teres,,Prats-de-Mollo-la-Preste,2041,31TDG5099,31TDG59
+8892264,Sphagnum teres,,Prats-de-Mollo-la-Preste,1932,31TDG4697,31TDG49
+8893449,Sphagnum teres,,Py,2264,31TDG4599,31TDG49
+8894292,Sphagnum teres,,Eyne,2297,31TDG2897,31TDG29
+8894338,Sphagnum teres,,Py,2215,31TDG4598,31TDG49
+8894564,Sphagnum teres,,Mantet,2352,31TDG4498,31TDG49
+8894610,Sphagnum teres,,Mantet,2352,31TDG4498,31TDG49
+8894622,Sphagnum teres,,Mantet,2158,31TDG4398,31TDG49
+8894637,Sphagnum teres,,Py,2257,31TDG4599,31TDG49
+8894653,Sphagnum teres,,Py,2254,31TDG4599,31TDG49
+8894663,Sphagnum teres,,Nohèdes,2027,31TDH3521,31TDH32
+8895068,Sphagnum teres,,Mantet,2209,31TDG4398,31TDG49
+8895081,Sphagnum teres,,Mantet,2209,31TDG4398,31TDG49
+8895196,Sphagnum teres,,Mantet,2164,31TDG4398,31TDG49
+8895475,Sphagnum teres,,Nohèdes,1987,31TDH3621,31TDH32
+8895511,Sphagnum teres,,Py,2201,31TDG4598,31TDG49
+8895525,Sphagnum teres,,Py,2122,31TDH4800,31TDH40
+8895552,Sphagnum teres,,Py,1993,31TDH4700,31TDH40
+8895564,Sphagnum teres,,Py,1977,31TDH4700,31TDH40
+8895615,Sphagnum teres,,Nohèdes,1907,31TDH3621,31TDH32
+8895629,Sphagnum teres,,Nohèdes,1906,31TDH3621,31TDH32
+8895640,Sphagnum teres,,Nohèdes,1989,31TDH3621,31TDH32
+8895649,Sphagnum teres,,Nohèdes,2002,31TDH3521,31TDH32
+8895655,Sphagnum teres,,Nohèdes,1990,31TDH3621,31TDH32
+8895671,Sphagnum teres,,Nohèdes,2028,31TDH3521,31TDH32
+8895680,Sphagnum teres,,Nohèdes,2030,31TDH3521,31TDH32
+8895733,Sphagnum teres,,Mantet,2219,31TDG4398,31TDG49
+8895749,Sphagnum teres,,Py,2133,31TDG4599,31TDG49
+8895771,Sphagnum teres,,Py,2095,31TDG4598,31TDG49
+8895805,Sphagnum teres,,Py,2206,31TDG4598,31TDG49
+8895847,Sphagnum teres,,Mantet,2229,31TDG4398,31TDG49
+8895866,Sphagnum teres,,Py,2145,31TDG4598,31TDG49
+8895902,Sphagnum teres,,Py,2210,31TDH4500,31TDH40
+8895919,Sphagnum teres,,Py,2195,31TDH4500,31TDH40
+8895933,Sphagnum teres,,Py,2260,31TDG4599,31TDG49
+8895937,Sphagnum teres,,Py,2166,31TDG4598,31TDG49
+8895956,Sphagnum teres,,Nohèdes,2138,31TDH3421,31TDH32
+8895965,Sphagnum teres,,Py,2107,31TDH4800,31TDH40
+8896010,Sphagnum teres,,Prats-de-Mollo-la-Preste,1991,31TDG4697,31TDG49
+9058386,Sphagnum teres,2015,Porté-Puymorens,1915,31TDH0610,31TDH01
+9058388,Sphagnum warnstorfii,2015,Porté-Puymorens,1915,31TDH0610,31TDH01
+8649807,Sphagnum teres,1883,Mont-Louis,,,
+8649659,Sphagnum teres,1878,Bolquère,1655,31TDH2507,31TDH20
+8656597,Sphagnum contortum,,Counozouls,2050,31TDH3524,31TDH32
+8656704,Sphagnum teres,,Counozouls,1940,31TDH3525,31TDH32
+8656913,Sphagnum teres,,Counozouls,1958,31TDH3625,31TDH32
+8723758,Sphagnum teres,1988,Eyne,2300,31TDG2897,31TDG29
+2716414,Sphagnum teres,1976,Mijanès,2000,,31TDH12
+2716413,Sphagnum teres,1976,Mijanès,1500,,31TDH12
+2716412,Sphagnum teres,1976,Pla,1600,,31TDH22
+2716355,Sphagnum contortum,1885,Cauterets,,,30TYN34
+2716354,Sphagnum contortum,1883,Lourdes,,,30TYN37
+2716353,Sphagnum contortum,1877,Lourdes,,,30TYN37
+2716352,Sphagnum contortum,1976,Mijanès,1300,,31TDH12
+2716351,Sphagnum contortum,2006,Pla,1510,,31TDH22
+2706946,Sphagnum teres,2003,Gèdre,,,31TBH53
+2706895,Sphagnum teres,2003,Gèdre,,,31TBH53
+2706865,Sphagnum teres,2003,Gèdre,,,31TBH53
+2706852,Sphagnum teres,2003,Gèdre,2100,,31TBH53
+2704340,Sphagnum teres,2006,Auzat,1690,,31TCH72
+2704199,Sphagnum teres,1994,Arrens-Marsous,,,30TYN25
+2703051,Sphagnum teres,1938,Porté-Puymorens,,,31TDH01
+2703050,Sphagnum teres,1938,Mérens-les-Vals,,,31TDH02
+2703049,Sphagnum teres,1938,Ax-les-Thermes,,,31TDH02
+2703048,Sphagnum teres,1938,Orlu,,,31TDH12
+2703047,Sphagnum teres,1938,Orlu,,,31TDH12
+2699511,Sphagnum teres,1878,Mont-Louis,,,31TDH20
+2698675,Sphagnum teres,1962,Laruns,,,30TYN15
+2698674,Sphagnum teres,1962,Laruns,,,30TYN15
+2698672,Sphagnum teres,1962,Laruns,,,30TYN15
+2697051,Sphagnum teres,1998,Laruns,1845,,30TYN15
+2697046,Sphagnum teres,1998,Laruns,,,30TYN15
+2697044,Sphagnum warnstorfii,1998,Laruns,1440,,30TYN15
+2697036,Sphagnum warnstorfii,1998,Laruns,1850,,30TYN15
+2697035,Sphagnum warnstorfii,1998,Laruns,1850,,30TYN15
+2697033,Sphagnum teres,1998,Laruns,1850,,30TYN15
+2697032,Sphagnum warnstorfii,1998,Laruns,,,30TYN15
+2697031,Sphagnum warnstorfii,1998,Laruns,,,30TYN15
+2697030,Sphagnum warnstorfii,1998,Laruns,,,30TYN15
+2697028,Sphagnum warnstorfii,1998,Laruns,,,30TYN15
+2697019,Sphagnum teres,1998,Laruns,,,30TYN15
+2697018,Sphagnum teres,1998,Laruns,,,30TYN15
+2697017,Sphagnum contortum,1998,Laruns,1150,,30TYN15
+2710788,Sphagnum teres,,Mijanès,1425,31TDH22  ,31TDH22
+2710786,Sphagnum contortum,,Mijanès,1425,31TDH22  ,31TDH22
+2710778,Sphagnum teres,,Mijanès,1425,31TDH22  ,31TDH22
+2710740,Sphagnum teres,,Mijanès,1480,31TDH23  ,31TDH23
+2710664,Sphagnum teres,,Pla,1549,31TDH22  ,31TDH22
+2689764,Sphagnum teres,1992,Loudenvielle,1700,,31TBH93
+2689721,Sphagnum teres,1990,Vielle-Aure,,,31TBH64
+2689700,Sphagnum warnstorfii,1992,Laruns,,,30TYN15
+2710629,Sphagnum teres,,Pla,1511,31TDH22  ,31TDH22
+2710596,Sphagnum teres,,Pla,1511,31TDH22  ,31TDH22
+2710582,Sphagnum teres,,Pla,1497,31TDH22  ,31TDH22
+2710522,Sphagnum teres,,Arrens-Marsous,1664,30TYN24  ,30TYN24
+2710501,Sphagnum teres,,Arrens-Marsous,1794,30TYN24  ,30TYN24
+2710475,Sphagnum teres,,Arrens-Marsous,1963,30TYN24  ,30TYN24
+2710464,Sphagnum teres,,Arrens-Marsous,2038,30TYN24  ,30TYN24
+2709232,Sphagnum teres,,Aragnouet,2183,31TBH64  ,31TBH64
+2709230,Sphagnum teres,,Vielle-Aure,,,31TBH64
+2709169,Sphagnum teres,,Vielle-Aure,2116,31TBH64  ,31TBH64
+2709101,Sphagnum teres,,Barèges,2154,31TBH65  ,31TBH65
+2706407,Sphagnum teres,,Suc-et-Sentenac,1350,31TCH74  ,31TCH74
+2706377,Sphagnum teres,,Ustou,1825,31TCH63  ,31TCH63
+2706298,Sphagnum teres,,Port,1308,31TCH64  ,31TCH64
+2706289,Sphagnum contortum,,Port,1308,31TCH64  ,31TCH64
+2706146,Sphagnum contortum,,Ancizan,1170,31TBH75  ,31TBH75
+2706145,Sphagnum teres,,Ancizan,1170,31TBH75  ,31TBH75
+2706144,Sphagnum teres,,Ancizan,1170,31TBH75  ,31TBH75
+2705069,Sphagnum teres,,Bagnères-de-Bigorre,1338,31TBH66  ,31TBH66
+2705054,Sphagnum teres,,Bagnères-de-Bigorre,1335,31TBH66  ,31TBH66
+2705042,Sphagnum teres,,Bagnères-de-Bigorre,1334,31TBH66  ,31TBH66
+2705025,Sphagnum teres,,Bagnères-de-Bigorre,1334,31TBH66  ,31TBH66
+2699398,Sphagnum teres,,Saint-Lary-Soulan,2270,31TBH83  ,31TBH83
+2692518,Sphagnum teres,,Ustou,2377,31TCH63  ,31TCH63
+2692476,Sphagnum teres,,Barèges,,31TBH64  ,31TBH64
+2692452,Sphagnum teres,,Orlu,1990,31TDH12  ,31TDH12
+2692368,Sphagnum teres,,Herran,1383,31TCH25  ,31TCH25
+2692165,Sphagnum teres,,Cauterets,,30TYN34  ,30TYN34
+2692025,Sphagnum teres,,Estaing,,30TYN24  ,30TYN24
+2691813,Sphagnum teres,,Arrens-Marsous,,30TYN25  ,30TYN25
+2691313,Sphagnum teres,,Cauterets,1794,30TYN34  ,30TYN34
+2691282,Sphagnum teres,,Vielle-Aure,,31TBH74  ,31TBH74
+2691268,Sphagnum teres,,Arrens-Marsous,1569,30TYN24  ,30TYN24
+2691262,Sphagnum teres,,Arrens-Marsous,,30TYN25  ,30TYN25
+2691236,Sphagnum teres,,Saint-Lary-Soulan,2144,31TBH64  ,31TBH64
+2691213,Sphagnum teres,,Hospitalet-près-l'Andorre,,31TCH91  ,31TCH91
+2691206,Sphagnum teres,,Hospitalet-près-l'Andorre,,31TCH91  ,31TCH91
+2691200,Sphagnum teres,,Hospitalet-près-l'Andorre,,31TCH91  ,31TCH91
+2691193,Sphagnum teres,,Hospitalet-près-l'Andorre,,31TCH91  ,31TCH91
+2691186,Sphagnum teres,,Artigues,,31TDH22  ,31TDH22
+2691180,Sphagnum teres,,Quérigut,,31TDH22  ,31TDH22
+2691177,Sphagnum teres,,Quérigut,,31TDH22  ,31TDH22
+2691175,Sphagnum teres,,Pla,,31TDH22  ,31TDH22
+2691170,Sphagnum teres,,Mijanès,,31TDH13  ,31TDH13
+2703043,Sphagnum warnstorfii,1938,Porté-Puymorens,,,31TDH01
+2691164,Sphagnum teres,,Mijanès,,31TDH13  ,31TDH13
+2692475,Sphagnum teres,2004,Aragnouet,2180,31TBH64  ,31TBH64
+2689526,Sphagnum teres,1883,Mont-Louis,1600,,31TDH20
+2689527,Sphagnum teres,1883,Cauterets,,,30TYN34
+2689696,Sphagnum warnstorfii,1992,Porté-Puymorens,,,31TDH01
+2689697,Sphagnum warnstorfii,1992,Porté-Puymorens,,,31TDH01
+2689698,Sphagnum warnstorfii,1992,Laruns,,,30TYN15
+2689699,Sphagnum warnstorfii,1992,Laruns,,,30TYN15
+2689777,Sphagnum teres,1956,Mijanès,,,31TDH12
+2689962,Sphagnum teres,2001,Vielle-Aure,1970,,31TBH64
+2691159,Sphagnum teres,,Montferrier,,31TDH04  ,31TDH04
+2689518,Sphagnum contortum,1883,Cauterets,,,30TYN34
+2691154,Sphagnum teres,,Montferrier,,31TDH04  ,31TDH04
+2691149,Sphagnum teres,,Montferrier,,31TDH04  ,31TDH04
+2691137,Sphagnum teres,,Melles,,31TCH24  ,31TCH24
+2691122,Sphagnum teres,,Barèges,,31TBH65  ,31TBH65
+2691117,Sphagnum teres,,Aragnouet,,31TBH64  ,31TBH64
+2691101,Sphagnum teres,,Saurat,,31TCH74  ,31TCH74
+2691094,Sphagnum teres,,Hospitalet-près-l'Andorre,,31TCH91  ,31TCH91
+2691089,Sphagnum teres,,Hospitalet-près-l'Andorre,,31TCH91  ,31TCH91
+2689519,Sphagnum contortum,1883,Lourdes,,,30TYN37
+2692325,Sphagnum teres,,Auzat,,,31TCH73
+2691083,Sphagnum teres,,Hospitalet-près-l'Andorre,,31TDH01  ,31TDH01
+2691078,Sphagnum teres,,Pla,,31TDH22  ,31TDH22
+2691066,Sphagnum teres,,Mijanès,,31TDH12  ,31TDH12
+2691055,Sphagnum teres,,Ascou,,31TDH13  ,31TDH13
+2691052,Sphagnum teres,,Montferrier,,31TDH04  ,31TDH04
+2704206,Sphagnum teres,1994,Arrens-Marsous,,,30TYN25
+2698673,Sphagnum teres,1962,Laruns,,,30TYN15
+2697506,Sphagnum teres,1989,Antras,,,31TCH24
+2697029,Sphagnum warnstorfii,1998,Laruns,,,30TYN15
+2691040,Sphagnum teres,,Albiès,,31TCH93  ,31TCH93
+2701135,Sphagnum teres,1941,Lecumberry,,,30TXN57
+2691031,Sphagnum teres,,Lassur,,31TCH93  ,31TCH93
+2691022,Sphagnum teres,,Lassur,,31TCH93  ,31TCH93
+2691011,Sphagnum teres,,Suc-et-Sentenac,,31TCH74  ,31TCH74
+2691000,Sphagnum teres,,Suc-et-Sentenac,,31TCH74  ,31TCH74
+2690995,Sphagnum contortum,,Suc-et-Sentenac,,31TCH74  ,31TCH74
+2690993,Sphagnum teres,,Port,,31TCH64  ,31TCH64
+2690987,Sphagnum contortum,,Port,,31TCH64  ,31TCH64
+2690984,Sphagnum teres,,Port,,31TCH64  ,31TCH64
+2690981,Sphagnum contortum,,Port,,31TCH64  ,31TCH64
+2690980,Sphagnum teres,,Aulus-les-Bains,,31TCH63  ,31TCH63
+2690974,Sphagnum teres,,Aulus-les-Bains,,31TCH63  ,31TCH63
+2690966,Sphagnum teres,,Bosc,,31TCH75  ,31TCH75
+2690892,Sphagnum teres,,Prayols,,31TCH85  ,31TCH85
+2690872,Sphagnum teres,,Melles,,31TCH24  ,31TCH24
+2690797,Sphagnum teres,,Mijanès,1470,31TDH23  ,31TDH23
+2695234,Sphagnum teres,2001,Vielle-Aure,2230,,31TBH64
+2692312,Sphagnum teres,,Suc-et-Sentenac,,31TCH74  ,31TCH74
+2694958,Sphagnum teres,2001,Vielle-Aure,2200,,31TBH64
+2717152,Sphagnum teres,,Vielle-Aure,,,31TBH64
+2717151,Sphagnum teres,,Vielle-Aure,,,31TBH64
+2711132,Sphagnum teres,,Gèdre,2100,,31TBH53
+2711033,Sphagnum teres,,Ascou,2000,,31TDH13
+2711032,Sphagnum teres,,Ascou,2000,,31TDH13
+2711031,Sphagnum teres,,Ascou,2000,,31TDH13
+2711027,Sphagnum contortum,,Ascou,2000,,31TDH13
+2710854,Sphagnum teres,,Mijanès,1413,31TDH22  ,31TDH22
+2710842,Sphagnum teres,,Mijanès,1405,31TDH22  ,31TDH22
+2710818,Sphagnum contortum,,Mijanès,1435,31TDH22  ,31TDH22
+2710817,Sphagnum teres,,Mijanès,1435,31TDH22  ,31TDH22
