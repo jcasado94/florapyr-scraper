@@ -24,9 +24,9 @@ def getObservationsInfo(observationsDump):
       
     html = BeautifulSoup(r.content, features="lxml")
 
-    altitudeLabel = html.find("label", string="Altitude (m)")
+    altitudeLabel = html.find("label", string="Altitude calculée (m)")
     if altitudeLabel is None:
-      altitudeLabel = html.find("label", string="Altitude calculée (m)")
+      altitudeLabel = html.find("label", string="Altitude (m)")
     if altitudeLabel is not None:
       altitude = altitudeLabel.findNext("div").text
       obs["altitude"] = altitude
