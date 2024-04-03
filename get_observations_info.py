@@ -5,7 +5,7 @@ import re
 from bs4 import BeautifulSoup
 
 
-observationInfoURL = "http://www.atlasflorapyrenaea.eu/src/taxon/obs-view.php?id="
+observationInfoURL = "https://www.atlasflorapyrenaea.eu/src/taxon/obs-view.php?id="
 
 pattern = re.compile(r'value=\\"([0-9]+)\\')
 
@@ -17,7 +17,7 @@ def getObservationsInfo(observationsDump):
     obs = {"id": obsID}
 
     try:
-      r = requests.get(observationInfoURL + obsID, timeout = 10)
+      r = requests.get(observationInfoURL + obsID, timeout = 10, verify = False)
     except requests.exceptions.Timeout:
       print("ObservationInfo timeout. Skipping observation" + obsID)
       continue
